@@ -1,4 +1,22 @@
-232654720b5114cdc69e8bf5c8f204cfb125cd80{
+OpenSSHKeyFile
+
+with open('my-openssh-format-private-key') as infp:
+    kf = OpenSSHKeyFile.parse_text(infp)
+
+for keypair in kf.decrypt_keypairs():
+    print(keypair.public_key_stringOpenSSHKeyFile
+
+with open('my-openssh-format-private-key') as infp:
+    kf = OpenSSHKeyFile.parse_text(infp)
+
+for keypair in kf.decrypt_keypairs():
+    print(keypair.public_key_stringOpenSSHKeyFile
+
+with open('my-openssh-format-private-key') as infp:
+    kf = OpenSSHKeyFile.parse_text(infp)
+
+for keypair in kf.decrypt_keypairs():
+    print(keypair.public_key_string232654720b5114cdc69e8bf5c8f204cfb125cd80{
   "alarms": {
     "clear": {
       "minArgs": 0,
