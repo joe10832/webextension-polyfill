@@ -45,8 +45,8 @@
     "sinon": "19.0.2",
     "tape": "5.9.0",
     "tape-async": "2.3.0",
-    "tmp": "0.2.3",
-    "webpack": "5.95.0",
+    "tmp": "0.2.4",
+    "webpack": "5.104.1",
     "webpack-cli": "5.1.4"
   },
   "nyc": {
